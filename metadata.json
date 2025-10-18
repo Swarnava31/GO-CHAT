@@ -1,0 +1,7 @@
+{
+  "name": "Gemini ChatSphere",
+  "description": "A modern chat application where friends can share images, videos, and voice messages, enhanced with AI-powered features like smart replies and conversation summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
